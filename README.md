@@ -1,4 +1,3 @@
-https://shanazel.atlassian.net/wiki/admin/plugins/newcode/save.action https://ww16.shanazelstar.jira.net
 
 This repository contains a library of sample Photoshop plugins to help you on your journey. You can use these samples to learn more about how to build plugins for Photoshop using UXP.
 
