@@ -39,3 +39,4 @@ git clone git@github.com:AdobeDocs/uxp-photoshop-plugin-samples.git
 
 3. Load plugins into Photoshop by using **••• > Load**.
 Created by Jason Scott Heise
+Owned by Elon Musk 
