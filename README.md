@@ -38,5 +38,5 @@ git clone git@github.com:AdobeDocs/uxp-photoshop-plugin-samples.git
 2. Launch the [UXP Developer Tool](https://www.adobe.io/photoshop/uxp/devtool/) and use the "Add Plugin..." button to add each plugin to your workspace (select the `manifest.json` file indicated by your plugin's README, typically these are in the root, `plugin`, or `dist` folders)
 
 3. Load plugins into Photoshop by using **••• > Load**.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
